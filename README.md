@@ -1,30 +1,3 @@
----
-author: Albert Camus
-date: '2011-01-02'
-description: 'Meursault, le narrateur, employé de bureau algérois, apprend la mort de sa mère. Il prend l''autobus pour se rendre à l''asile où elle a fini ses jours et assiste avec indifférence à la veillée et à l''enterrement. Le lendemain, samedi, il rencontre Marie dans un établissement de bains, l''emmène au cinéma et passe la nuit avec elle. Le dimanche s''étire dans l''ennui et le désoeuvrement. Meursault retrouve son bureau et ses voisins: Céleste le restaurateur, le vieux Salamano qui bat son chien, et Raymond Sintès, dont on dit dans le quartier qu''il «vit des femmes». Celui-ci demande à Meursault de rédiger une lettre destinée à une femme qui l''a trompé. Le samedi suivant, Meursault se rend à la plage avec Marie. Au retour, ils assistent à une scène violente au cours de laquelle Raymond frappe sa maîtresse. La police étant intervenue, Meursault accepte de témoigner en faveur de Raymond ... Meursault et Marie vont passer le dimanche à la plage, avec Raymond. Deux Arabes les ont suivis. L''un est le frère de la femme que Raymond a maltraitée. Une dispute éclate: Raymond est blessé d''un coup de couteau. Un peu plus tard, par une chaleur accablante, il revient provoquer son agresseur. Meursault, qui lui, a pris son revolver par précaution, se retrouve seul face à l''Arabe. Aveuglé par le soleil et l''éclat du couteau que celui-ci a sorti de sa poche, il tire sur lui...&lt;br&gt;Albert Camus s''explique dans une dernière interview, en janvier 1955: «J''ai résumé L''Étranger, il y a longtemps, par une phrase dont je reconnais qu''elle est très paradoxale: “Dans notre société tout homme qui ne pleure pas à l''enterrement de sa mère risque d''être condamné à mort.” Je voulais dire seulement que le héros du livre est condamné parce qu''il ne joue pas le jeu. En ce sens, il est étranger à la société où il vit, où il erre, en marge, dans les faubourgs de la vie privée, solitaire, sensuelle. Et c''est pourquoi des lecteurs ont été tentés de le considérer comme une épave. On aura cependant une idée plus exacte du personnage, plus conforme en tout cas aux intentions de son auteur, si l''on se demande en quoi Meursault ne joue pas le jeu. La réponse est simple : il refuse de mentir.» (...) «Meursault, pour moi, n''est donc pas une épave, mais un homme pauvre et nu, amoureux du soleil qui ne laisse pas d''ombres. Loin qu''il soit privé de toute sensibilité, une passion profonde parce que tenace, l''anime : la passion de l''absolu et de la vérité. Il s''agit d''une vérité encore négative, la vérité d''être et de sentir, mais sans laquelle nulle conquête sur soi et sur le monde ne sera jamais possible.» (...) «On ne se tromperait donc pas beaucoup en lisant, dans L''Étranger, l''histoire d''un homme qui, sans aucune attitude héroïque, accepte de mourir pour la vérité. Il m''est arrivé de dire aussi, et toujours paradoxalement, que j''avais essayé de figurer, dans mon personnage, le seul Christ que nous méritions. On comprendra, après mes explications, que je l''aie dit sans aucune intention de blasphème et seulement avec l''affection un peu ironique qu''un artiste a le droit d''éprouver à l''égard des personnages de sa création.»'
-identifier: 'awp2011-01-10T22:09:35Z'
-language: fr
-publisher: Ebooks libres et gratuits
-subject: Romans
-title: 'L’Étranger'
----
-
-<span id="002.html"></span>
-
-<span class="t1">**Albert Camus**</span>
-
-<span class="t2">**L’ÉTRANGER**</span>
-
-<span class="t3">(1942)</span>
-
-<span id="003.html"></span>
-
-[](){#003.html#a0}<span class="t1">**PREMIÈRE PARTIE**</span>
-
-<span id="004.html"></span>
-
-[](){#004.html#a1}<span class="t4">**I**</span>
-
 Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. J’ai
 reçu un télégramme de l’asile : « Mère décédée. Enterrement demain.
 Sentiments distingués. » Cela ne veut rien dire. C’était peut-être hier.
